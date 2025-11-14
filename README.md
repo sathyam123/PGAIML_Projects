@@ -1,8 +1,21 @@
+<div align="center">
+
 ![B.S. Sathyamoorthy | GenAI | NLP | ML | RAG | LLM | AI Engineering Banner](assets/banner.png)
 
-📘 PGAIML Projects – AI/ML Portfolio
-By B. S. Sathyamoorthy | Generative AI & NLP Engineer | Senior Test Lead (16+ Yrs IT Experience)
-🚀 About This Repository
+# 📘 PGAIML Projects – AI/ML Portfolio
+### By B. S. Sathyamoorthy | Generative AI & NLP Engineer | Senior Test Lead (16+ Yrs IT Experience)
+
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Machine Learning](https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
+[![GenAI](https://img.shields.io/badge/Generative-AI-purple?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![MLOps](https://img.shields.io/badge/MLOps-Deployment-red?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
+
+**🎯 Post Graduate Program in AI & ML** • **🏫 Great Lakes + UT McCombs** • **⭐ Production-Ready Projects**
+
+</div>
+
+## 🚀 About This Repository
 
 This repository contains the complete set of projects completed as part of the
 Post Graduate Program in Artificial Intelligence & Machine Learning
