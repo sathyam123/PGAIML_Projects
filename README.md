@@ -1,3 +1,5 @@
+![B.S. Sathyamoorthy | GenAI | NLP | ML | RAG | LLM | AI Engineering Banner](assets/banner.png)
+
 📘 PGAIML Projects – AI/ML Portfolio
 By B. S. Sathyamoorthy | Generative AI & NLP Engineer | Senior Test Lead (16+ Yrs IT Experience)
 🚀 About This Repository
@@ -143,3 +145,4 @@ Cloud/Tools: GitHub, Jupyter, Streamlit
 Email: sathya.sridhar@gmail.com
 LinkedIn: [[your LinkedIn link]](https://www.linkedin.com/in/b-s-sathyamoorthy-sathya-5a05b1277/)
 GitHub: https://github.com/sathyam123
+
