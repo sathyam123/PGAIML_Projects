@@ -1,7 +1,5 @@
 <div align="center">
 
-![B.S. Sathyamoorthy | GenAI | NLP | ML | RAG | LLM | AI Engineering Banner](assets/banner.png)
-
 # 📘 PGAIML Projects – AI/ML Portfolio
 ### By B. S. Sathyamoorthy | Generative AI & NLP Engineer | Senior Test Lead (16+ Yrs IT Experience)
 
