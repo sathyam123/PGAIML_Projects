@@ -1,177 +1,145 @@
-# AIML Projects Repository
+📘 PGAIML Projects – AI/ML Portfolio
+By B. S. Sathyamoorthy | Generative AI & NLP Engineer | Senior Test Lead (16+ Yrs IT Experience)
+🚀 About This Repository
 
-A comprehensive collection of **Artificial Intelligence and Machine Learning** projects organized by domain and methodology. This repository demonstrates hands-on experience with modern AI/ML techniques, from classical machine learning to cutting-edge generative AI.
+This repository contains the complete set of projects completed as part of the
+Post Graduate Program in Artificial Intelligence & Machine Learning
+(Great Lakes + The University of Texas, McCombs School of Business)
 
----
+It demonstrates my progression from Machine Learning → Deep Learning → NLP → Computer Vision → RAG → GenAI → Deployment with real-world & production-oriented projects.
 
-## 📁 Repository Structure
+🧠 Skills Covered
 
-### **GenAI/** — Generative AI & Large Language Models
-Cutting-edge projects leveraging generative models and advanced language techniques.
+Generative AI (LLMs, Prompt Engineering, RAG, Summarization, Text Generation)
 
-- **RAG_Project/** — Retrieval-Augmented Generation implementations
-  - `GenAI_RAG_DocumentQASystem.ipynb` — RAG-based document Q&A system with LLM integration
-  
-- **PromptEngineering/** — Prompt optimization and LLM fine-tuning
-  - `GenAI_PromptEngineering_AdvancedLLMTechniques.ipynb` — Advanced prompt engineering and chain-of-thought techniques
-  - `Advanced_GenAI_for_NLP_Marketing_Campaign_Generator.html` — Marketing campaign automation with GenAI
-  
-- **Summarization/** — Text summarization and abstraction models
-  - Ready for summarization projects and extractive/abstractive techniques
+NLP (Transformers, BERT, Tokenization, Embeddings, Text Classification)
 
----
+Computer Vision (CNNs, Transfer Learning, EfficientNet, Pneumonia Detection)
 
-### **ML/** — Classical & Advanced Machine Learning
-Regression, classification, and ensemble methods with comprehensive implementations.
+Deep Learning (ANN, CNN, RNN, LSTM)
 
-- **Regression/**
-  - `ML_Regression_WineQualityPrediction_v2.ipynb` — Wine quality prediction using regression
-  - `ML_Regression_MovieRecommendations.ipynb` — Movie recommendations via regression analysis
-  - `ML_Regression_SimpleLinearRegressionFundamentals.ipynb` — Simple linear regression fundamentals
-  - `ML_Regression_KFoldCrossValidation.ipynb` — Cross-validation techniques for model evaluation
-  - `ML_Regression_HyperparameterTuningGridSearch.ipynb` — Optimization strategies for model performance
+Machine Learning (Regression, Classification, Ensemble Models)
 
-- **Classification/**
-  - `ML_Classification_DiabetesRiskAssessment.ipynb` — Medical classification: diabetes risk assessment
-  - `ML_Classification_LoanCampaignTargeting_v1.ipynb` — Binary classification for customer targeting
-  - `ML_Classification_LoanCampaignOptimization_v2.ipynb` — Campaign optimization via classification
-  - `ML_Classification_AnimeRatingPrediction.ipynb` — Multi-class prediction for entertainment data
-  - `ML_Classification_KMeansClustering.ipynb` — Unsupervised clustering with K-Means
-  - `ML_Classification_ExploratoryDataAnalysis.ipynb` — EDA best practices and visualization
-  - `ML_Classification_PandasDataManipulation.ipynb` — Data manipulation with pandas
+MLOps (Model Deployment, APIs, FastAPI, Evaluation Pipelines)
 
-- **Ensemble/**
-  - `ML_Ensemble_BaggingAndBootstrapAggregation.ipynb` — Bootstrap aggregation and bagging techniques
-  - `ML_Ensemble_BoostingGradientBoosting.ipynb` — Gradient boosting and AdaBoost implementations
-  - `ML_Ensemble_ClassImbalanceHandling.ipynb` — Handling imbalanced datasets
+Python, SQL, Streamlit
 
----
+📌 Featured Projects (Recruiter Highlights)
+🔥 1. GenAI Marketing Campaign Generator
 
-### **NLP/** — Natural Language Processing
-Text processing, vectorization, and classical NLP techniques.
+Tech: GPT-based LLM, Prompt Engineering, FastAPI, Embeddings
+Features:
 
-- **TextCleaning/** — Preprocessing and normalization
-  - Text cleaning, tokenization, and normalization pipelines
-  
-- **TFIDF/** — TF-IDF vectorization and feature extraction
-  - Vector space models and term frequency analysis
-  
-- **ClassicalNLP/** — Traditional NLP methods
-  - Sentiment analysis, POS tagging, and linguistic features
+Multi-format: Email, Social Ads, Product Descriptions
 
----
+Dynamic prompt engineering
 
-### **Datasets/**
-Collection of datasets used across all projects:
-- CSV files for ML projects (housing, credit, diabetes, movies, etc.)
-- Various formats: `.csv`, `.xlsx`, `.json`, `.parquet`
+Deployable FastAPI backend
 
----
+Business-ready output generation
 
-### **Notebooks/**
-Standalone Jupyter notebooks including:
-- Data preprocessing and feature engineering
-- Visualization and EDA utilities
-- Python fundamentals and flow control
-- General-purpose tutorials
+🔗 Folder: /10_GenAI/
 
----
+🔥 2. Pneumonia Detection – Computer Vision (Industry-Ready)
 
-### **Archive/**
-Backup copies and versioned project snapshots:
-- `backup_YYYYMMDD_HHMMSS/` — Timestamped backups of organized files
+Tech: CNN, EfficientNet, Transfer Learning, FastAPI
+Features:
 
----
+Medical imaging classification (Normal vs Pneumonia)
 
-## 🛠️ Technologies & Tools
+Full training pipeline: augmentation, class weights
 
-**Languages & Frameworks:**
-- Python, Jupyter Notebooks
-- Pandas, NumPy, Scikit-learn
-- XGBoost, LightGBM, Keras/TensorFlow
+Evaluation: F1, AUC, Confusion Matrix
 
-**Techniques:**
-- Supervised Learning (Regression, Classification)
-- Unsupervised Learning (Clustering, Dimensionality Reduction)
-- Ensemble Methods (Bagging, Boosting, Stacking)
-- Natural Language Processing (NLP)
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering & LLM Integration
-- Time Series & Cross-Validation
-- Hyperparameter Tuning & Model Optimization
+Deployment-ready API
 
----
+🔗 Folder: /4_Computer Vision/
 
-## 📊 Project Highlights
+🔥 3. RAG (Retrieval-Augmented Generation) System
 
-| Category | Key Projects |
-|----------|--------------|
-| **Generative AI** | RAG implementations, LLM prompt optimization, Marketing automation |
-| **Regression** | Wine quality, movie recommendations, hyperparameter tuning |
-| **Classification** | Diabetes risk, loan campaigns, anime ratings, clustering |
-| **Ensemble Methods** | Bagging, boosting, class imbalance handling |
-| **Data Analysis** | EDA, pandas workflows, feature engineering |
+Tech: Sentence-BERT, FAISS, Vector Embeddings, LLM
+Features:
 
----
+Document Q&A with contextual retrieval
 
-## 🚀 Getting Started
+Vector DB-based search
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/sathyam123/AIML.git
-   cd AIML
-   ```
+Prompt chaining
 
-2. **Navigate to a project:**
-   ```bash
-   cd ML/Classification
-   jupyter notebook ML_Classification_DiabetesRiskAssessment.ipynb
-   ```
+Hallucination minimization
 
-3. **Install dependencies** (if needed):
-   ```bash
-   pip install pandas numpy scikit-learn jupyter
-   ```
+🔗 Folder: /5_RAG Projects/
 
----
+🔥 4. LLM Prompt Engineering – Practical Use Cases
 
-## 📚 Documentation
+Tech: LLMs, Templates, Few-Shot Prompts
+Features:
 
-- **[NAMING_CONVENTIONS.md](NAMING_CONVENTIONS.md)** — Notebook naming standards and conventions
-- **[NOTEBOOK_INDEX.md](NOTEBOOK_INDEX.md)** — Complete visual index of all 33 renamed notebooks
-- **[rename_log.csv](rename_log.csv)** — History of all notebook renames
-- **[move_log.csv](move_log.csv)** — History of file reorganization
+Instruction tuning
 
----
+Role prompting
 
-## 💡 Key Skills Demonstrated
+Output formatting
 
-✅ Machine Learning (supervised & unsupervised)  
-✅ Statistical Analysis & Hypothesis Testing  
-✅ Data Preprocessing & Feature Engineering  
-✅ Model Evaluation & Cross-Validation  
-✅ Generative AI & Large Language Models  
-✅ Natural Language Processing  
-✅ Python & Jupyter Notebook Proficiency  
-✅ Data Visualization & EDA  
-✅ Ensemble Methods & Advanced Algorithms  
+Evaluation across prompts
 
----
+🔗 Folder: /6_Prompt Engineering/
 
-## 📝 License
+🔥 5. Capstone Project – End-to-End AI Application
 
-These projects are organized for portfolio and learning purposes. Feel free to explore, learn, and adapt for your own use.
+Tech: ML, DL, NLP, CV (based on your uploaded HTML)
+Features:
 
----
+Real-world business problem
 
-## 📧 Contact
+Full AI lifecycle
 
-For questions or collaboration opportunities, feel free to reach out!
+Exploratory data analysis
 
----
+Model training & selection
 
-**Last Updated:** November 14, 2025  
-**Repository Status:** Actively organized and maintained  
-**Total Notebooks:** 33 (professionally renamed)  
-**Organization Level:** ⭐⭐⭐⭐⭐ Production-Ready
+Conclusion & insights
 
+🔗 Folder: /9_Capstone Project/
+
+📚 Repository Structure
+PGAIML_Projects/
+│
+├── 1_Machine-learning/
+├── 2_DL and Neural Networks/
+├── 3_NLP/
+├── 4_Computer Vision/
+├── 5_RAG Projects/
+├── 6_Prompt Engineering/
+├── 7_Streamlit Apps/
+├── 8_Mini Projects/
+├── 9_Capstone Project/
+└── 10_GenAI/
+
+📈 How to Navigate This Repository
+Folder	Description
+1_ML	Regression, Classification, Ensemble Methods
+2_DL	ANN, CNN, Transfer Learning
+3_NLP	Tokenization, Embeddings, Classic NLP
+4_CV	Image Classification, Detection, Medical Imaging
+5_RAG Projects	Retrieval-based QA Systems
+6_Prompt Engineering	Structured & experimental prompting
+7_Streamlit Apps	Web UI demos
+8_Mini Projects	Quick concepts & mid-sized implementations
+9_Capstone	Comprehensive final project
+10_GenAI	LLM, RAG, Prompt Engineering, Text Generation
+🧩 Tech Stack
+
+Languages: Python, SQL
+
+Frameworks: TensorFlow, PyTorch, FastAPI
+
+Libraries: Transformers, FAISS, OpenCV, scikit-learn, NLTK
+
+Cloud/Tools: GitHub, Jupyter, Streamlit
+
+📧 Contact
+
+Email: sathya.sridhar@gmail.com
+LinkedIn: [[your LinkedIn link]](https://www.linkedin.com/in/b-s-sathyamoorthy-sathya-5a05b1277/)
+GitHub: https://github.com/sathyam123
