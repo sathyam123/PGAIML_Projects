@@ -1,0 +1,97 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
+		"python.terminal.activateEnvironment": true,
+		"python.analysis.extraPaths": [
+			"${workspaceFolder}/scripts"
+		],
+		"files.exclude": {
+			"**/__pycache__": true,
+			"**/*.pyc": true,
+			"**/.pytest_cache": true,
+			"**/.venv": false
+		},
+		"terminal.integrated.cwd": "${workspaceFolder}",
+		"powershell.integratedConsole.focusConsoleOnExecute": false,
+		"files.associations": {
+			"*.ps1": "powershell"
+		}
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Python: Open Syzygy (Visible)",
+				"type": "debugpy",
+				"request": "launch",
+				"program": "${workspaceFolder}/scripts/open_syzygy_chrome.py",
+				"args": [
+					"--click-research"
+				],
+				"console": "integratedTerminal",
+				"justMyCode": true
+			},
+			{
+				"name": "Python: Open Syzygy (Headless)",
+				"type": "debugpy",
+				"request": "launch",
+				"program": "${workspaceFolder}/scripts/open_syzygy_chrome.py",
+				"args": [
+					"--headless",
+					"--click-research",
+					"--screenshot",
+					"syzygy_screenshot.png"
+				],
+				"console": "integratedTerminal",
+				"justMyCode": true
+			},
+			{
+				"name": "Python: Amazon iPhone Search (Visible)",
+				"type": "debugpy",
+				"request": "launch",
+				"program": "${workspaceFolder}/scripts/amazon_iphone_search.py",
+				"args": [
+					"--max-products",
+					"5"
+				],
+				"console": "integratedTerminal",
+				"justMyCode": true
+			},
+			{
+				"name": "Python: Amazon iPhone Search (Headless + Screenshot)",
+				"type": "debugpy",
+				"request": "launch",
+				"program": "${workspaceFolder}/scripts/amazon_iphone_search.py",
+				"args": [
+					"--headless",
+					"--max-products",
+					"5",
+					"--screenshot",
+					"amazon_results.png"
+				],
+				"console": "integratedTerminal",
+				"justMyCode": true
+			},
+			{
+				"name": "PowerShell: Open Syzygy",
+				"type": "PowerShell",
+				"request": "launch",
+				"script": "${workspaceFolder}/scripts/open_syzygy_chrome.ps1",
+				"cwd": "${workspaceFolder}"
+			}
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-python.python",
+			"ms-python.vscode-pylance",
+			"ms-python.debugpy",
+			"ms-vscode.powershell"
+		]
+	}
+}

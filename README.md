@@ -118,29 +118,41 @@ Conclusion & insights
 📚 Repository Structure
 PGAIML_Projects/
 │
-├── 1_Machine-learning/
-├── 2_DL and Neural Networks/
-├── 3_NLP/
-├── 4_Computer Vision/
-├── 5_RAG Projects/
-├── 6_Prompt Engineering/
-├── 7_Streamlit Apps/
-├── 8_Mini Projects/
-├── 9_Capstone Project/
-└── 10_GenAI/
+├── ML/
+│   ├── Classification/
+│   ├── CNN/
+│   │   └── Case_Study_3_Assignment_File.ipynb (CNN + Transfer Learning)
+│   ├── Ensemble/
+│   ├── NeuralNetworks/
+│   │   └── Case_Study_2_Assignment_File.ipynb (Neural Networks & Backpropagation)
+│   └── Regression/
+│
+├── NLP/
+│   ├── ClassicalNLP/
+│   ├── TextCleaning/
+│   ├── TFIDF/
+│   └── Case_Study_4_Assignment_File.ipynb (RNN & LSTM Sequence Modeling)
+│
+├── GenAI/
+│   ├── PromptEngineering/
+│   ├── RAG_Project/
+│   └── Summarization/
+│
+├── Datasets/
+├── Notebooks/
+├── scripts/
+└── Archive/
 
 📈 How to Navigate This Repository
 Folder	Description
-1_ML	Regression, Classification, Ensemble Methods
-2_DL	ANN, CNN, Transfer Learning
-3_NLP	Tokenization, Embeddings, Classic NLP
-4_CV	Image Classification, Detection, Medical Imaging
-5_RAG Projects	Retrieval-based QA Systems
-6_Prompt Engineering	Structured & experimental prompting
-7_Streamlit Apps	Web UI demos
-8_Mini Projects	Quick concepts & mid-sized implementations
-9_Capstone	Comprehensive final project
-10_GenAI	LLM, RAG, Prompt Engineering, Text Generation
+ML/	Machine Learning projects (Classification, Regression, Ensemble)
+ML/CNN/	CNN & Transfer Learning (CIFAR-10, Image Classification)
+ML/NeuralNetworks/	Neural Networks, Backpropagation, Deep Learning Fundamentals
+NLP/	Natural Language Processing (RNN, LSTM, Sentiment Analysis, Text Processing)
+GenAI/	Generative AI, LLMs, RAG, Prompt Engineering
+Datasets/	Common datasets used across projects
+Notebooks/	General notebooks and tutorials
+scripts/	Utility scripts for automation
 🧩 Tech Stack
 
 Languages: Python, SQL
