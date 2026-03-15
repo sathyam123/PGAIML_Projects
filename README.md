@@ -70,7 +70,28 @@ The projects demonstrate expertise across the complete AI/ML lifecycle, from fou
 **Tools:** Jupyter, Git, Docker, Streamlit, FastAPI
 **Cloud:** AWS, Google Cloud (ML deployment)
 
+
 ## 📌 Featured Projects
+
+### 🐶 CNN Capstone: Pet Classification (Dogs vs Cats)
+**Location:** [`CNN_Capstone_PetClassification_SathyamoorthyBS (1).ipynb`](CNN_Capstone_PetClassification_SathyamoorthyBS%20(1).ipynb)
+
+**Objective:** Build and evaluate a deep learning model (CNN) to classify pet images as dogs or cats, demonstrating end-to-end computer vision workflow.
+
+**Technical Stack:**
+- TensorFlow/Keras for model development
+- Data preprocessing and augmentation
+- Model evaluation and visualization
+
+**Key Features:**
+- Custom CNN architecture for binary image classification
+- Data augmentation for improved generalization
+- Training/validation accuracy and loss visualization
+- Confusion matrix and classification report
+
+**Business Impact:** Demonstrates practical application of deep learning for real-world image classification tasks, relevant to pet adoption, veterinary, and e-commerce platforms.
+
+---
 
 ### 🔥 1. RNN & LSTM Sequence Modeling for Sentiment Analysis
 **Location:** [`NLP/Case_Study_4_Assignment_File.ipynb`](NLP/Case_Study_4_Assignment_File.ipynb)
