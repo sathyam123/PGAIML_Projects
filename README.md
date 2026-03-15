@@ -73,10 +73,14 @@ The projects demonstrate expertise across the complete AI/ML lifecycle, from fou
 
 ## 📌 Featured Projects
 
-### 🐶 CNN Capstone: Pet Classification (Dogs vs Cats)
+
+### 🐶 CNN Capstone: Pet Classification (Dogs vs Cats) <br> <img src="https://img.shields.io/badge/MSAIML-Walsh%20College-blueviolet?style=flat-square" alt="MSAIML Badge">  
+**Part of:** <b>MS in Artificial Intelligence & Machine Learning (MSAIML)</b> coursework, Walsh College
+
 **Location:** [`ML/CNN/Capstone_PetClassification/CNN_Capstone_PetClassification_SathyamoorthyBS.ipynb`](ML/CNN/Capstone_PetClassification/CNN_Capstone_PetClassification_SathyamoorthyBS.ipynb)
 
-**Objective:** Build and evaluate a deep learning model (CNN) to classify pet images as dogs or cats, demonstrating end-to-end computer vision workflow.
+**Objective:** Build and evaluate a deep learning model (CNN) to classify pet images as dogs or cats, demonstrating end-to-end computer vision workflow. <br>
+<b>This project was developed as a capstone for the MSAIML program, showcasing advanced computer vision skills and practical deployment readiness.</b>
 
 **Technical Stack:**
 - TensorFlow/Keras for model development
