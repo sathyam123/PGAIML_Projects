@@ -74,7 +74,7 @@ The projects demonstrate expertise across the complete AI/ML lifecycle, from fou
 ## 📌 Featured Projects
 
 ### 🐶 CNN Capstone: Pet Classification (Dogs vs Cats)
-**Location:** [`CNN_Capstone_PetClassification_SathyamoorthyBS (1).ipynb`](CNN_Capstone_PetClassification_SathyamoorthyBS%20(1).ipynb)
+**Location:** [`ML/CNN/Capstone_PetClassification/CNN_Capstone_PetClassification_SathyamoorthyBS.ipynb`](ML/CNN/Capstone_PetClassification/CNN_Capstone_PetClassification_SathyamoorthyBS.ipynb)
 
 **Objective:** Build and evaluate a deep learning model (CNN) to classify pet images as dogs or cats, demonstrating end-to-end computer vision workflow.
 
