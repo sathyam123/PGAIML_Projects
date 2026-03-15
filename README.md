@@ -1,3 +1,36 @@
+### 📚 Additional Featured Projects (MSAIML)
+
+- **Neural Networks & Backpropagation**  
+  Location: [`ML/NeuralNetworks/Case_Study_2_Assignment_File.ipynb`](ML/NeuralNetworks/Case_Study_2_Assignment_File.ipynb)  
+  Deep learning fundamentals, custom neural network architectures, and advanced optimization techniques.
+
+- **CNN Image Classification**  
+  Location: [`ML/CNN/Case_Study_3_Assignment_File.ipynb`](ML/CNN/Case_Study_3_Assignment_File.ipynb)  
+  Computer vision with convolutional neural networks, image classification, and transfer learning.
+
+- **RNN & LSTM Sequence Modeling**  
+  Location: [`NLP/Case_Study_4_Assignment_File.ipynb`](NLP/Case_Study_4_Assignment_File.ipynb)  
+  Natural language processing, sequence modeling, and sentiment analysis using RNNs and LSTMs.
+
+- **ML Case Study 5**  
+  Location: [`ML/Case_Study_5_Assignment_File_2026.ipynb`](ML/Case_Study_5_Assignment_File_2026.ipynb)  
+  Advanced machine learning project (details in notebook).
+
+- **ML Case Study 6**  
+  Location: [`ML/Case_Study_6_Student.ipynb`](ML/Case_Study_6_Student.ipynb)  
+  Machine learning project (details in notebook).
+
+- **ML Case Study 7**  
+  Location: [`ML/Case_Study_7_Student.ipynb`](ML/Case_Study_7_Student.ipynb)  
+  Machine learning project (details in notebook).
+
+- **Federated AI Lab (GenAI/RAG)**  
+  Location: [`GenAI/RAG_Project/Sathyamoorthy_Buma_Sridhar_FederatedAI_Lab.ipynb`](GenAI/RAG_Project/Sathyamoorthy_Buma_Sridhar_FederatedAI_Lab.ipynb)  
+  Federated learning, retrieval-augmented generation, and GenAI lab work.
+
+- **Web Scraping & Vector DB (GenAI)**  
+  Location: [`GenAI/RAG_Project/web_scraping_vector_db.ipynb`](GenAI/RAG_Project/web_scraping_vector_db.ipynb)  
+  Web scraping, data ingestion, and vector database integration for GenAI applications.
 <div align="center">
 
 # 📘 AI/ML Professional Portfolio
