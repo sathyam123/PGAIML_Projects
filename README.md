@@ -1,5 +1,10 @@
 ### 📚 Additional Featured Projects (MSAIML)
 
+- **🏥 MS Capstone: AI-Driven Pneumonia Detection from Chest X-rays**  
+  Location: [`ML/CNN/Capstone_PetClassification/Capstone_PneumoniaDetection_SathyamoorthyBS.ipynb`](ML/CNN/Capstone_PetClassification/Capstone_PneumoniaDetection_SathyamoorthyBS.ipynb)  
+  **Status:** 🚀 In Progress (MS Capstone Project, Walsh College)  
+  Advanced deep learning system for automated pneumonia detection using 50,000+ DICOM chest X-ray images. Features CNN architectures, transfer learning, medical image processing, and clinical decision support capabilities.
+
 - **Neural Networks & Backpropagation**  
   Location: [`ML/NeuralNetworks/Case_Study_2_Assignment_File.ipynb`](ML/NeuralNetworks/Case_Study_2_Assignment_File.ipynb)  
   Deep learning fundamentals, custom neural network architectures, and advanced optimization techniques.
@@ -59,6 +64,103 @@ This repository showcases a comprehensive portfolio of **AI/ML projects** develo
 
 The projects demonstrate expertise across the complete AI/ML lifecycle, from foundational machine learning to advanced deep learning, NLP, computer vision, generative AI, and production deployment. Each project emphasizes **industry best practices**, **scalable architectures**, and **real-world applications**.
 
+---
+## 🏥 **MS Capstone Project: AI-Driven Chest X-ray Analysis for Pneumonia Detection** <br> <img src="https://img.shields.io/badge/MSAIML%20Capstone-Walsh%20College-critical?style=flat-square" alt="MS Capstone Badge">
+
+**Status:** 🚀 **In Progress** *(MS in AI & Machine Learning, Walsh College)*
+
+
+**Project Title:** AI-Driven Chest X-ray Analysis for Pneumonia Detection – A Deep Learning Approach Using Convolutional Neural Networks
+### 📚 Additional Featured Projects (MSAIML)
+
+> **⭐ PRIMARY MS CAPSTONE PROJECT:** See the comprehensive **🏥 AI-Driven Pneumonia Detection** section below for detailed information on the active in-progress capstone project.
+
+- **🏥 MS Capstone: AI-Driven Pneumonia Detection from Chest X-rays** ⭐ **ACTIVE CAPSTONE**  
+  Location: [`ML/CNN/Capstone_PetClassification/Capstone_PneumoniaDetection_SathyamoorthyBS.ipynb`](ML/CNN/Capstone_PetClassification/Capstone_PneumoniaDetection_SathyamoorthyBS.ipynb)  
+  **Status:** 🚀 **In Progress** *(Final MS Capstone Project, Walsh College)*  
+  Advanced deep learning system for automated pneumonia detection using 50,000+ DICOM chest X-ray images. Features CNN architectures, transfer learning, medical image processing, and clinical decision support capabilities.
+
+- **Neural Networks & Backpropagation**  
+  Location: [`ML/NeuralNetworks/Case_Study_2_Assignment_File.ipynb`](ML/NeuralNetworks/Case_Study_2_Assignment_File.ipynb)  
+  Deep learning fundamentals, custom neural network architectures, and advanced optimization techniques.
+
+**Objective:** Develop an AI-powered diagnostic support system using advanced deep learning techniques to accurately detect pneumonia from chest X-ray images. The system aims to serve as a clinical decision-support tool for radiologists and healthcare providers, enabling early detection and reducing diagnostic time.
+
+**Problem Statement:** Pneumonia remains a leading cause of morbidity and mortality worldwide. Manual interpretation of chest X-rays is time-consuming and subject to inter-observer variability. This project addresses the need for an automated, accurate, and scalable solution using computer vision and deep learning.
+
+**Technical Stack:**
+- **Deep Learning Framework:** TensorFlow/Keras for model development
+- **Computer Vision:** OpenCV for image preprocessing and DICOM format handling
+- **Medical Imaging:** DICOM image processing and normalization
+- **Data Processing:** NumPy, Pandas for dataset management (50,000+ medical images)
+- **Model Architecture:** Convolutional Neural Networks (CNN) with transfer learning capabilities
+- **Visualization:** Matplotlib, Seaborn for medical image analysis and result visualization
+- **Evaluation Metrics:** Sensitivity, Specificity, AUC-ROC, Confusion Matrix, Classification Report
+
+**Key Features:**
+
+1. **Large-Scale Medical Dataset:** 
+   - Training set: 53,369 DICOM images (3,396 MB)
+   - Test set: 6,001 DICOM images (380 MB)
+   - Binary classification: Pneumonia vs. Normal
+
+2. **Advanced Image Preprocessing:**
+   - DICOM file handling and conversion
+   - Image normalization and standardization
+   - Data augmentation for improved generalization
+   - Pixel intensity scaling and histogram equalization
+
+3. **Deep Learning Architecture:**
+   - Custom CNN model with multiple convolutional and pooling layers
+   - Transfer learning with pre-trained models (VGG, ResNet, EfficientNet)
+   - Dropout and batch normalization for regularization
+   - Optimized training with Adam optimizer
+
+4. **Comprehensive Model Evaluation:**
+   - Training/validation accuracy and loss tracking
+   - Confusion matrix analysis
+   - ROC-AUC curve generation
+   - Precision, Recall, F1-Score metrics
+   - Sensitivity and Specificity for clinical relevance
+
+5. **Clinical Decision Support:**
+   - Probability scores for individual predictions
+   - Confidence intervals for diagnostic assistance
+   - Visualization of areas of concern in images
+
+**Business & Healthcare Impact:**
+
+- **Clinical Decision Support:** Assists radiologists in identifying pneumonia cases, reducing diagnostic time and improving accuracy
+- **Scalability:** Handles large volumes of medical images for batch processing
+- **Patient Outcomes:** Early detection enables timely intervention and treatment
+- **Resource Optimization:** Reduces radiologist workload for initial screening and triage
+- **Research Value:** Contributes to medical AI literature and demonstrates practical application of deep learning in healthcare
+- **Regulatory Alignment:** Follows HIPAA and medical imaging standards for healthcare deployment
+
+**Model Performance Highlights:**
+- Binary classification achieving high sensitivity (recall) to minimize false negatives in pneumonia detection
+- Optimized specificity to reduce false positives and unnecessary treatments
+- AUC-ROC score for comprehensive model evaluation across all classification thresholds
+
+**Proof of Concept (POC) Demonstrations:**
+
+The notebook includes comprehensive POC demonstrations covering:
+- **Data Exploration:** Dataset size, image distribution, class balance analysis
+- **Image Processing Pipeline:** From DICOM files to normalized tensors
+- **Model Training:** End-to-end training pipeline with epoch-by-epoch performance tracking
+- **Prediction & Visualization:** Individual image prediction with probability scores and confidence levels
+- **Model Interpretability:** Feature activation maps and area highlighting for clinical insight
+- **Performance Metrics:** Detailed statistical analysis for clinical decision-making
+
+**Future Enhancements:**
+- Multi-class classification (Normal, Pneumonia, COVID-19 detection)
+- Explainable AI (XAI) integration for clinician transparency
+- Real-time inference API deployment with FastAPI
+- Mobile application for field deployment in resource-limited settings
+- Federated learning for privacy-preserving multi-hospital collaboration
+
+---
+
 ## 🧠 Core Competencies
 
 ### Generative AI & Large Language Models
@@ -104,10 +206,13 @@ The projects demonstrate expertise across the complete AI/ML lifecycle, from fou
 **Cloud:** AWS, Google Cloud (ML deployment)
 
 
-## 📌 Featured Projects
+## 📌 Featured Projects & Case Studies
 
+> **🎯 Note:** See the **MS Capstone Project** section above for details on the **AI-Driven Pneumonia Detection** capstone project, which represents the culmination of the MS in AI & ML program.
+> **🎯 Note:** The **🏥 MS Capstone Project** section above details the **AI-Driven Pneumonia Detection** active capstone project, which is the primary focus of the MS in AI & ML program at Walsh College.
+**Status:** 🚀 **In Progress** *(Final MS Capstone Project - Active Development, Walsh College)*
 
-### 🐶 CNN Capstone: Pet Classification (Dogs vs Cats) <br> <img src="https://img.shields.io/badge/MSAIML-Walsh%20College-blueviolet?style=flat-square" alt="MSAIML Badge">  
+### 🐶 CNN Project: Pet Classification (Dogs vs Cats) <br> <img src="https://img.shields.io/badge/MSAIML-Walsh%20College-blueviolet?style=flat-square" alt="MSAIML Badge">  
 **Part of:** <b>MS in Artificial Intelligence & Machine Learning (MSAIML)</b> coursework, Walsh College
 
 **Location:** [`ML/CNN/Capstone_PetClassification/CNN_Capstone_PetClassification_SathyamoorthyBS.ipynb`](ML/CNN/Capstone_PetClassification/CNN_Capstone_PetClassification_SathyamoorthyBS.ipynb)
@@ -249,7 +354,10 @@ PGAIML_Projects/
 │   ├── Regression/                           # Regression models & analysis
 │   ├── Ensemble/                             # Ensemble methods (RF, XGBoost, etc.)
 │   ├── CNN/                                  # Computer Vision & CNN Projects
-│   │   └── Case_Study_3_Assignment_File.ipynb  # CNN + Transfer Learning (CIFAR-10)
+│   │   ├── Case_Study_3_Assignment_File.ipynb  # CNN + Transfer Learning (CIFAR-10)
+│   │   └── Capstone_PetClassification/       # 🏥 **MS CAPSTONE PROJECT (In Progress)**
+│   │       ├── CNN_Capstone_PetClassification_SathyamoorthyBS.ipynb
+│   │       └── Capstone_PneumoniaDetection_SathyamoorthyBS.ipynb  # 🚀 **IN PROGRESS: Pneumonia Detection**
 │   └── NeuralNetworks/                       # Deep Learning Fundamentals
 │       └── Case_Study_2_Assignment_File.ipynb  # Neural Networks & Backpropagation
 │
@@ -285,8 +393,9 @@ PGAIML_Projects/
 
 | Category | Focus Area | Key Technologies | Projects |
 |----------|-----------|------------------|----------|
+| **🏥 MS Capstone** | Medical Imaging & AI | CNN, Transfer Learning, DICOM Processing, TensorFlow | **Pneumonia Detection (50K+ X-rays)** |
 | **ML/** | Traditional & Deep Learning | Scikit-learn, TensorFlow, Keras | Classification, Regression, Ensemble, Neural Networks |
-| **ML/CNN/** | Computer Vision | CNN, Transfer Learning, EfficientNet | Image Classification, Object Detection |
+| **ML/CNN/** | Computer Vision | CNN, Transfer Learning, EfficientNet | Image Classification, Object Detection, Capstone Projects |
 | **ML/NeuralNetworks/** | Deep Learning Fundamentals | ANN, Backpropagation, Optimization | Wine Quality, Custom NN Architectures |
 | **NLP/** | Text Processing & Analysis | RNN, LSTM, Transformers, BERT | Sentiment Analysis, Sequence Modeling |
 | **GenAI/** | Generative AI & LLMs | GPT, RAG, Prompt Engineering | Text Generation, Document Q&A |
