@@ -39,7 +39,7 @@
 <div align="center">
 
 # 📘 AI/ML Professional Portfolio
-### B. S. Sathyamoorthy | Generative AI & NLP Engineer | Senior Test Lead (16+ Yrs IT Experience)
+### B. S. Sathyamoorthy | Generative AI & NLP Engineer | Senior AI Consultant (16+ Yrs IT Experience)
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
@@ -59,8 +59,7 @@
 
 This repository showcases a comprehensive portfolio of **AI/ML projects** developed during my academic and professional journey, including:
 
-- **MS in Artificial Intelligence & Machine Learning** – Walsh College *(Completed)*
-- **Doctorate of Business Administration in Artificial Intelligence and Machine Learning** – Current PhD/DBA pursuit
+- **MS in Artificial Intelligence & Machine Learning** – Walsh College *(Currently Pursuing)*
 - **Post Graduate Program in AI & ML** – Great Lakes + The University of Texas, McCombs School of Business *(Completed)*
 
 The projects demonstrate expertise across the complete AI/ML lifecycle, from foundational machine learning to advanced deep learning, NLP, computer vision, generative AI, and production deployment. Each project emphasizes **industry best practices**, **scalable architectures**, and **real-world applications**.
