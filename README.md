@@ -59,7 +59,8 @@
 
 This repository showcases a comprehensive portfolio of **AI/ML projects** developed during my academic and professional journey, including:
 
-- **MS in Artificial Intelligence & Machine Learning** – Walsh College *(Currently Pursuing)*
+- **MS in Artificial Intelligence & Machine Learning** – Walsh College *(Completed)*
+- **Doctorate of Business Administration in Artificial Intelligence and Machine Learning** – Current PhD/DBA pursuit
 - **Post Graduate Program in AI & ML** – Great Lakes + The University of Texas, McCombs School of Business *(Completed)*
 
 The projects demonstrate expertise across the complete AI/ML lifecycle, from foundational machine learning to advanced deep learning, NLP, computer vision, generative AI, and production deployment. Each project emphasizes **industry best practices**, **scalable architectures**, and **real-world applications**.
