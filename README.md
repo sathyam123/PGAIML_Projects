@@ -451,19 +451,24 @@ PGAIML_Projects/
 ## 🎯 Professional Development
 
 ### Current Education
-- **MS in Artificial Intelligence & Machine Learning** | Walsh College | *In Progress*
-  - Advanced AI/ML coursework and research
-  - Focus on production AI systems and MLOps
+- **Doctorate of Business Administration in Artificial Intelligence & Machine Learning** | Current pursuit
+  - Advancing AI research, business intelligence, and applied machine learning strategy
+  - Focus on AI-driven decision making, enterprise transformation, and innovation leadership
+
+- **MS in Artificial Intelligence & Machine Learning** | Walsh College | *Completed*
+  - Advanced AI/ML coursework and capstone research
+  - Strong foundation in machine learning, deep learning, computer vision, and applied AI systems
 
 ### Completed Programs
 - **Post Graduate Program in AI & ML** | Great Lakes + University of Texas (McCombs) | *Completed*
   - Comprehensive curriculum covering ML, DL, NLP, CV, and GenAI
-  - Industry-focused capstone projects
+  - Industry-focused capstone projects and applied AI learning
 
 ### Professional Experience
-- **16+ Years in IT** | Senior Test Lead & Quality Assurance
-- **Specialization:** Generative AI, NLP Engineering, ML Model Development
-- **Industry Focus:** Healthcare, Finance, E-commerce, Enterprise Software
+- **16+ Years in IT** | Senior AI Consultant
+- **Specialization:** Generative AI, NLP Engineering, ML Model Development, AI-Driven Product Testing
+- **Industry Focus:** Healthcare, Finance, E-commerce, Enterprise Software, Digital Transformation
+- **Career Direction:** Bridging enterprise quality leadership with applied AI, automation, and intelligent business innovation
 
 ---
 
