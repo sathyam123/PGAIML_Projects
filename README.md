@@ -47,7 +47,9 @@
 [![GenAI](https://img.shields.io/badge/Generative-AI-purple?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 [![MLOps](https://img.shields.io/badge/MLOps-Production-green?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
 
-**🎓 MS in Artificial Intelligence & Machine Learning** • **Walsh College** *(Currently Pursuing)*
+**🎓 MS in Artificial Intelligence & Machine Learning** • **Walsh College** *(Completed)*
+
+**📘 DBA in Artificial Intelligence & Machine Learning** • **Walsh College** *(Currently Pursuing)*
 
 **🎯 Post Graduate Program in AI & ML** • **Great Lakes + UT McCombs** *(Completed)*
 
