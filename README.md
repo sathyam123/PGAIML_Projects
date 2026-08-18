@@ -67,18 +67,22 @@ The projects demonstrate expertise across the complete AI/ML lifecycle, from fou
 ---
 ## 🏥 **MS Capstone Project: AI-Driven Chest X-ray Analysis for Pneumonia Detection** <br> <img src="https://img.shields.io/badge/MSAIML%20Capstone-Walsh%20College-critical?style=flat-square" alt="MS Capstone Badge">
 
-**Status:** 🚀 **In Progress** *(MS in AI & Machine Learning, Walsh College)*
+**Status:** ✅ **Completed Final MS Capstone** *(MS in AI & Machine Learning, Walsh College)*
 
+**Project Title:** AI-Driven Pneumonia Detection from Chest X-rays using Convolutional Neural Networks and Transfer Learning
 
-**Project Title:** AI-Driven Chest X-ray Analysis for Pneumonia Detection – A Deep Learning Approach Using Convolutional Neural Networks
+**Final Deliverables:**
+- Final Report: `QM640_Final_Report_Sathyamoorthy_Buma_Sridhar.pdf`
+- Final Presentation: `QM640_Final_Presentation_Sathyamoorthy_Buma_Sridhar.pptx`
+
 ### 📚 Additional Featured Projects (MSAIML)
 
-> **⭐ PRIMARY MS CAPSTONE PROJECT:** See the comprehensive **🏥 AI-Driven Pneumonia Detection** section below for detailed information on the active in-progress capstone project.
+> **⭐ PRIMARY MS CAPSTONE PROJECT:** See the comprehensive **🏥 AI-Driven Pneumonia Detection** section below for the completed final capstone project.
 
-- **🏥 MS Capstone: AI-Driven Pneumonia Detection from Chest X-rays** ⭐ **ACTIVE CAPSTONE**  
+- **🏥 MS Capstone: AI-Driven Pneumonia Detection from Chest X-rays** ⭐ **COMPLETED CAPSTONE**  
   Location: [`ML/CNN/Capstone_PetClassification/Capstone_PneumoniaDetection_SathyamoorthyBS.ipynb`](ML/CNN/Capstone_PetClassification/Capstone_PneumoniaDetection_SathyamoorthyBS.ipynb)  
-  **Status:** 🚀 **In Progress** *(Final MS Capstone Project, Walsh College)*  
-  Advanced deep learning system for automated pneumonia detection using 50,000+ DICOM chest X-ray images. Features CNN architectures, transfer learning, medical image processing, and clinical decision support capabilities.
+  **Status:** ✅ **Completed** *(Final MS Capstone Project, Walsh College)*  
+  Advanced deep learning system for automated pneumonia detection using chest X-ray imaging, CNN architectures, transfer learning, model evaluation, and deployment-ready analysis for clinical decision support.
 
 - **Neural Networks & Backpropagation**  
   Location: [`ML/NeuralNetworks/Case_Study_2_Assignment_File.ipynb`](ML/NeuralNetworks/Case_Study_2_Assignment_File.ipynb)  
